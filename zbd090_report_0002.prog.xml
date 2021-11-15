@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PROG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROGDIR>
+    <NAME>ZBD090_REPORT_0002</NAME>
+    <DBAPL>S</DBAPL>
+    <SUBC>1</SUBC>
+    <FIXPT>X</FIXPT>
+    <LDBNAME>D$S</LDBNAME>
+    <UCCHECK>X</UCCHECK>
+   </PROGDIR>
+   <I18N_TPOOL>
+    <item>
+     <LANGUAGE>E</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Schulung BD-090</ENTRY>
+       <LENGTH>15</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_BUDAT</KEY>
+       <ENTRY>.</ENTRY>
+       <LENGTH>20</LENGTH>
+       <SPLIT>D</SPLIT>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_BUKRS</KEY>
+       <ENTRY>.</ENTRY>
+       <LENGTH>20</LENGTH>
+       <SPLIT>D</SPLIT>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_RB_ALS</KEY>
+       <ENTRY>Verzweigungsliste</ENTRY>
+       <LENGTH>25</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_RB_SE1</KEY>
+       <ENTRY>Send error:START-OF-SELECTION</ENTRY>
+       <LENGTH>38</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_RB_SE2</KEY>
+       <ENTRY>Send error:AT SELECTION-SCREEN</ENTRY>
+       <LENGTH>38</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_RB_SI</KEY>
+       <ENTRY>Send info messages</ENTRY>
+       <LENGTH>26</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>S_I</KEY>
+       <ENTRY>Number</ENTRY>
+       <LENGTH>14</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+   </I18N_TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>

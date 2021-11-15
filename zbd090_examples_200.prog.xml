@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PROG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROGDIR>
+    <NAME>ZBD090_EXAMPLES_200</NAME>
+    <DBAPL>S</DBAPL>
+    <SUBC>1</SUBC>
+    <FIXPT>X</FIXPT>
+    <LDBNAME>D$S</LDBNAME>
+    <UCCHECK>X</UCCHECK>
+   </PROGDIR>
+   <I18N_TPOOL>
+    <item>
+     <LANGUAGE>E</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Schulung BD-090 Mandant 200</ENTRY>
+       <LENGTH>27</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0003</KEY>
+       <ENTRY>0003:Types, variables</ENTRY>
+       <LENGTH>29</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0004</KEY>
+       <ENTRY>0004:itab define</ENTRY>
+       <LENGTH>24</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0005_1</KEY>
+       <ENTRY>0005:itab SELECT</ENTRY>
+       <LENGTH>24</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0005_2</KEY>
+       <ENTRY>0005:itab LOOP</ENTRY>
+       <LENGTH>22</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0006_1</KEY>
+       <ENTRY>0006:itab headline</ENTRY>
+       <LENGTH>26</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0006_2</KEY>
+       <ENTRY>0006:itab COLLECT</ENTRY>
+       <LENGTH>25</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0007_1</KEY>
+       <ENTRY>0007:string substring</ENTRY>
+       <LENGTH>29</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0007_2</KEY>
+       <ENTRY>0007:string CONCATENATE</ENTRY>
+       <LENGTH>31</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0008_1</KEY>
+       <ENTRY>0008:form</ENTRY>
+       <LENGTH>17</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0008_2</KEY>
+       <ENTRY>0008:macro</ENTRY>
+       <LENGTH>18</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0009</KEY>
+       <ENTRY>0009:local class</ENTRY>
+       <LENGTH>24</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0010_1</KEY>
+       <ENTRY>0010:field symbol performance</ENTRY>
+       <LENGTH>37</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0010_2</KEY>
+       <ENTRY>0010:field symbol dynamic</ENTRY>
+       <LENGTH>33</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0010_3</KEY>
+       <ENTRY>0010:field symbol all fields</ENTRY>
+       <LENGTH>36</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_0011</KEY>
+       <ENTRY>0011:alv reuse</ENTRY>
+       <LENGTH>22</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_LISTE1</KEY>
+       <ENTRY>List 1</ENTRY>
+       <LENGTH>14</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_LISTE2</KEY>
+       <ENTRY>List 2</ENTRY>
+       <LENGTH>14</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+   </I18N_TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>
